@@ -1,8 +1,9 @@
 # Home Credit Default Risk
-![loan.jpg](attachment:loan.jpg)
+
+<img src="https://github.com/HebaAladdin/Kaggle-home-credit-risk/blob/main/loan.jpg" alt="loan" width="600" height="400"/>
 
 ## Project Description
-In this series of notebooks, we will take a look at the Home Credit default risk machine learning competition currently hosted on Kaggle. The objective of this competition is to use historical loan application data to predict whether or not an applicant will be able to repay a loan. This is a standard supervised classification task:
+In this series of notebooks, we will take a look at the ["Home credit default risk"](https://www.kaggle.com/c/home-credit-default-risk#description) machine learning competition currently hosted on Kaggle. The objective of this competition is to use historical loan application data to predict whether or not an applicant will be able to repay a loan. This is a standard supervised classification task:
 
 * **Supervised**: The labels are included in the training data and the goal is to train a model to learn to predict the labels from the features
 
