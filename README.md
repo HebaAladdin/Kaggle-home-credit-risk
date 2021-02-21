@@ -134,3 +134,14 @@ The final results is based on running 10 kfold training using LightGBM model (we
 | Aggregated dataset v1  | 0.825520 | 0.766415  | 
 |Aggregated dataset v2 | 0.815504 | 0.763560 | 
 
+
+### Future work
+
+- Work with other feature selection methods such as PCA to reduce the feature space to find significant features
+- Add more features from the other datasources and check the feature importance graphs for a clue on what features were most important
+- Use stratified folding technique while training to work with the unbalanced labels problem
+- Experiment with other models and compare it to the LightGBM model we trained
+- Try bagging, boosting and stacking models 
+- Hyperparameter tunning to optimize the models that give better results
+- Train on each data source separatly and use the prediction from one model as an input to the other model
+
