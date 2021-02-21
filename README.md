@@ -3,8 +3,9 @@
 ## Project Description
 In this series of notebooks, we will take a look at the Home Credit default risk machine learning competition currently hosted on Kaggle. The objective of this competition is to use historical loan application data to predict whether or not an applicant will be able to repay a loan. This is a standard supervised classification task:
 
-<b>Supervised</b>: The labels are included in the training data and the goal is to train a model to learn to predict the labels from the features
-<b>Classification</b>: The label is a binary variable, 0 (will repay loan on time), 1 (will have difficulty repaying loan)
+* **Supervised**: The labels are included in the training data and the goal is to train a model to learn to predict the labels from the features
+
+* **Classification**: The label is a binary variable, 0 (will repay loan on time), 1 (will have difficulty repaying loan)
 
 
 ### Datasets
@@ -43,18 +44,21 @@ seaborn
 ### Running
 
 1- Exploratory data analysis(EDA)
+
 This notebook is for getting business insights from the dataset through EDA. Navigate to the the folder "EDA" and run the following notebook
 ```
 Exploratory Data Analysis.ipynb
 ```
 
 2- Data preparation
+
 This notebook is for preparing the dataset with feature engineering and feature selection techniques to feed it later on to the machine learning models. Navigate to the folder "Modeling" and run the following notebook
 ```
 Data Preparation.ipynb
 ```
 
 3- Models
+
 This collection of notebooks aim to run three machine learning models(Logistic regression, Random forest, Light Gradient Boosting Machine) on 4 different datasets. Navigate to the folder "Modeling" and run the following notebooks 
 
    - Raw application dataset without manual features
