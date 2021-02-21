@@ -137,6 +137,7 @@ The final results is based on running 10 kfold training using LightGBM model (we
 
 ### Future work
 
+- Expand the EDA more to cover different features and how they relate to each other.
 - Work with other feature selection methods such as PCA to reduce the feature space to find significant features
 - Add more features from the other datasources and check the feature importance graphs for a clue on what features were most important
 - Use stratified folding technique while training to work with the unbalanced labels problem
