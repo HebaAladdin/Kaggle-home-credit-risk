@@ -148,4 +148,4 @@ The final results is based on running 10 kfold training using LightGBM model (we
 ### References 
 - The [discussion board](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction) of the kaggle competition is a powerful source of information related to the current problem.
 - This [article](https://towardsdatascience.com/a-machine-learning-approach-to-credit-risk-assessment-ba8eda1cd11f) on medium about building a credit risk model was also a nice source of information.
-- An article for [factors to quantify credit risk](https://www.investopedia.com/ask/answers/022415/what-factors-are-taken-account-quantify-credit-risk.asp#:~:text=Several%20major%20variables%20are%20considered,macroeconomic%20considerations%2C%20such%20as%20economic)
+- An article for [factors to quantify credit risk](https://www.investopedia.com/ask/answers/022415/what-factors-are-taken-account-quantify-credit-risk.asp#:~:text=Several%20major%20variables%20are%20considered,macroeconomic%20considerations%2C%20such%20as%20economic) helped me to understand more about the defaulting problem effect on business
